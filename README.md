@@ -12,6 +12,8 @@ A list of [DKAN](http://nucivic.com/dkan) sites around the world
 | Bonn (Germany)      | [opendata.bonn.de](http://opendata.bonn.de) |
 | The White House (USA)      | [whitehouse.gov/raise-the-wage](http://whitehouse.gov/raise-the-wage) |
 | Clark County (Nevada, USA)      | [clarkcountydatahub.com](http://www.clarkcountydatahub.com/) |
+| U.S. Department of Health and Human Services (USA)      | [healthdata.gov](http://healthdata.gov) |
+| Italy      | [dati.gov.it](http://dati.gov.it) |
 | El Salvador      | [datoselsalvador.org](http://datoselsalvador.org) |
 | OpenOakland      | [data.openoakland.org](http://data.openoakland.org) |
 | Ukraine      | [data.gov.ua](http://data.gov.ua/) |
