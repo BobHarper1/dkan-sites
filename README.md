@@ -13,7 +13,7 @@ A list of [DKAN](http://nucivic.com/dkan) sites around the world
 | The White House (USA)      | [whitehouse.gov/raise-the-wage](http://whitehouse.gov/raise-the-wage) |
 | Clark County (Nevada, USA)      | [clarkcountydatahub.com](http://www.clarkcountydatahub.com/) |
 | U.S. Department of Health and Human Services (USA)      | [healthdata.gov](http://healthdata.gov) |
-| Northern Ireland | [http://data.nicva.org](http://data.nicva.org/) |
+| Detail Data (Northern Ireland) | [http://data.nicva.org](http://data.nicva.org/) |
 | Italy      | [dati.gov.it](http://dati.gov.it) |
 | El Salvador      | [datoselsalvador.org](http://datoselsalvador.org) |
 | OpenOakland      | [data.openoakland.org](http://data.openoakland.org) |
